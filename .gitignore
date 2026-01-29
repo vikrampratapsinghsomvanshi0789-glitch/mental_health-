@@ -1,0 +1,6 @@
+.antigravity/
+.cache/
+.vscode/
+__pycache__/
+.env/
+*.log
